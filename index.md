@@ -11,6 +11,7 @@
 - [Package use metrics](https://github.com/Astroconda/conmets)
 
 ### Miscellaneous
+- [CI infrastructure support library for Jenkins](https://github.com/spacetelescope/jenkins_shared_ci_utils)
 - [Automated package build and publication system for Jenkins](https://github.com/Astroconda/build_control)
 - [Customizable dependency notification tool](https://github.com/spacetelescope/harbinger)
 
