@@ -4,8 +4,8 @@
 - [Communications code generation tool](https://github.com/rendinam/BeamInstParser)
 - [Embedded instrument software and instrument-specific server code](https://github.com/rendinam/CBPM-TSHARC)
 - [Instrumentation server code](https://github.com/rendinam/CBIC)
-- [Multi-language data file I/O library](https://github.com/rendinam/cbpmfio)
 - [Proof of concept Python rededesign of the above system components](https://github.com/rendinam/CBPM)
+- [Multi-language data file I/O library](https://github.com/rendinam/cbpmfio)
 
 ### Astronomy
 - [Package use metrics](https://github.com/Astroconda/conmets)
