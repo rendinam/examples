@@ -4,7 +4,7 @@
 - [Communications code generation tool (Python)](https://github.com/rendinam/BeamInstParser) used to produce synchronized data structures and C sources for communications methods used to pass command and payload data between control system server code and instrument software.
 - [Embedded instrument software and instrument-specific server code (C)](https://github.com/rendinam/CBPM-TSHARC) for beam position monitors (BPMs) based on TigerSHARC embedded processors.
 - [Instrumentation server code (C)](https://github.com/rendinam/CBIC) for the primary instrumentation console application.
-- [Proof of concept Python redesign of the above system components (Python)](https://github.com/rendinam/CBPM) Meant to simplify development and take advantage of more advanced language features like exception handling.
+- [Proof of concept Python redesign of the above system components (Python)](https://github.com/rendinam/CBPM) meant to simplify application development and take advantage of more advanced language features like exception handling.
 - [Multi-language data file I/O library (C, Fortran, MATLAB)](https://github.com/rendinam/cbpmfio) for reading measurement data into C, Fortran, and MATLAB applications.
 
 ### Miscellaneous
