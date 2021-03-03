@@ -8,7 +8,7 @@
 - [Multi-language data file I/O library (C, Fortran, MATLAB)](https://github.com/rendinam/cbpmfio) for reading measurement data into C, Fortran, and MATLAB applications.
 
 ### Miscellaneous
-- [Package usage metrics (Python)](https://github.com/Astroconda/conmets)
+- [Package usage metrics (Python/pandas)](https://github.com/Astroconda/conmets)
 - [CI infrastructure support library for Jenkins (Groovy)](https://github.com/spacetelescope/jenkins_shared_ci_utils)
 - [Automated package build and publication system for Jenkins (Groovy)](https://github.com/Astroconda/build_control)
 - [Customizable dependency notification tool (Python)](https://github.com/spacetelescope/harbinger)
