@@ -1,5 +1,7 @@
 ## Selected software developed by Matt Rendina
-### Physics instrumentation
+### Physics instrumentation software
+A configurable, multi-component data acquisition software system designed to acquire turn-by-turn and bunch-by-bunch beam position data from the Cornell Electron/Positron Storage Ring (CESR).
+
 - [Instrumentation support library (C)](https://github.com/rendinam/BeamInstSupport) common to several beam instrument types.
 - [Communications code generation tool (Python)](https://github.com/rendinam/BeamInstParser) used to produce synchronized data structures and C sources for communications methods used to pass command and payload data between control system server code and instrument software.
 - [Embedded instrument software and instrument-specific server code (C)](https://github.com/rendinam/CBPM-TSHARC) for beam position monitors (BPMs) based on TigerSHARC embedded processors.
